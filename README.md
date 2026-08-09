@@ -42,10 +42,81 @@ Microsoft User Group Bolivia es una comunidad que impulsa el crecimiento profesi
 ## Organizadores
 
 ### Directores
-- Diana Calizaya - Directora Nacional & Founder - [LinkedIn](https://www.linkedin.com/in/dianacalizaya/)
-- Zeith Aguilar - Sub Director Nacional - [LinkedIn](#)
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/itsdididev/microsoftusergroup-bo/main/diana%20calizaya%20microsoft.jpeg" width="58" height="58" alt="Diana Calizaya" />
+      <br/>
+      <b>Diana Calizaya</b>
+      <br/>
+      Directora Nacional & Founder
+      <br/>
+      <a href="https://www.linkedin.com/in/dianacalizaya/">LinkedIn</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/itsdididev/microsoftusergroup-bo/main/zn.ap.jpeg" width="58" height="58" alt="Zeith Aguilar" />
+      <br/>
+      <b>Zeith Aguilar</b>
+      <br/>
+      Sub Director Nacional
+      <br/>
+      <br/>
+      <a href="#">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
 ### Coordinadores Departamentales
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/microsoftusergroup-bo/microsoftusergroup-bo/main/f1fe547c-10d9-4af9-8f24-c11175fc03d5.avif" width="54" height="54" alt="Coordinacion La Paz" />
+      <br/>
+      <b>La Paz</b>
+      <br/>
+      Nombre Apellido
+      <br/>
+      Coordinador/a Departamental
+      <br/>
+      <a href="#">LinkedIn</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/microsoftusergroup-bo/microsoftusergroup-bo/main/f1fe547c-10d9-4af9-8f24-c11175fc03d5.avif" width="54" height="54" alt="Coordinacion Sucre" />
+      <br/>
+      <b>Sucre</b>
+      <br/>
+      Nombre Apellido
+      <br/>
+      Coordinador/a Departamental
+      <br/>
+      <a href="#">LinkedIn</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/microsoftusergroup-bo/microsoftusergroup-bo/main/f1fe547c-10d9-4af9-8f24-c11175fc03d5.avif" width="54" height="54" alt="Coordinacion Santa Cruz" />
+      <br/>
+      <b>Santa Cruz</b>
+      <br/>
+      Nombre Apellido
+      <br/>
+      Coordinador/a Departamental
+      <br/>
+      <a href="#">LinkedIn</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/microsoftusergroup-bo/microsoftusergroup-bo/main/f1fe547c-10d9-4af9-8f24-c11175fc03d5.avif" width="54" height="54" alt="Coordinacion Cochabamba" />
+      <br/>
+      <b>Cochabamba</b>
+      <br/>
+      Nombre Apellido
+      <br/>
+      Coordinador/a Departamental
+      <br/>
+      <a href="#">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
 
 
