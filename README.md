@@ -41,12 +41,13 @@ Microsoft User Group Bolivia es una comunidad que impulsa el crecimiento profesi
 
 ## Organizadores
 
+
 ### Directores
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/itsdididev/microsoftusergroup-bo/main/diana%20calizaya%20microsoft.jpeg" width="58" height="58" alt="Diana Calizaya" />
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/microsoftusergroup-bo/microsoftusergroup-bo/main/dianacalizaya.png" width="58" height="58" alt="Diana Calizaya" />
       <br/>
       <b>Diana Calizaya</b>
       <br/>
@@ -54,13 +55,22 @@ Microsoft User Group Bolivia es una comunidad que impulsa el crecimiento profesi
       <br/>
       <a href="https://www.linkedin.com/in/dianacalizaya/">LinkedIn</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/itsdididev/microsoftusergroup-bo/main/zn.ap.jpeg" width="58" height="58" alt="Zeith Aguilar" />
       <br/>
       <b>Zeith Aguilar</b>
       <br/>
       Sub Director Nacional
       <br/>
+       <br/>
+      <a href="#">LinkedIn</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/microsoftusergroup-bo/microsoftusergroup-bo/main/icc.png" width="58" height="58" alt="Irisi Calizaya" />
+      <br/>
+      <b>Iris Calizaya</b>
+      <br/>
+      Coordinadora Nacional de Formacion
       <br/>
       <a href="#">LinkedIn</a>
     </td>
