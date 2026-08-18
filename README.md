@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="c" width="100%" alt="Microsoft User Group Bolivia" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:F25022,33:7FBA00,66:00A4EF,100:FFB900&text=Microsoft%20User%20Group&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=BOLIVIA&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Microsoft User Group Bolivia" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=26&duration=2600&pause=900&color=00A4EF&center=true&vCenter=true&width=760&height=48&lines=Comunidad+Microsoft+en+Bolivia;Azure+%7C+Desarrollo+%7C+Datos+%7C+IA;Aprender%2C+compartir+y+crecer+juntos" alt="Comunidad Microsoft en Bolivia" />
 
